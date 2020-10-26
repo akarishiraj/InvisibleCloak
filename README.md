@@ -1,5 +1,5 @@
 # InvisibleCloak
-An invisible cloak which make you visible when you cover yourself with it just like in Harry Potter movie.
+An invisible cloak which make you invisible when you cover yourself with it just like in Harry Potter movie.
 This project uses Numpy as well as OpenCV for image processing.
 
 # Background Process:
